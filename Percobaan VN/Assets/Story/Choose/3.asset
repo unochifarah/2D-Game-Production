@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c41b3bcee707df8469802225ac60363c, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Back to office
+    nextScene: {fileID: 11400000, guid: bd07e4775b86dc44d974d22257fba781, type: 2}
+  - text: Back to crime scene
+    nextScene: {fileID: 11400000, guid: 73e5824e9618d724f94ae83dac906522, type: 2}
